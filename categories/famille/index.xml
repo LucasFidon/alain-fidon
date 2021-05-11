@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>famille on Alain Fidon | Artiste peintre</title>
-    <link>https://lucasfidon.github.io/categories/famille/</link>
+    <link>https://LucasFidon.github.io/categories/famille/</link>
     <description>Recent content in famille on Alain Fidon | Artiste peintre</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2021 Lucas Fidon</copyright>
-    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://lucasfidon.github.io/categories/famille/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://LucasFidon.github.io/categories/famille/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Julia</title>
-      <link>https://lucasfidon.github.io/portfolio/julia/</link>
+      <link>https://LucasFidon.github.io/portfolio/julia/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://lucasfidon.github.io/portfolio/julia/</guid>
+      <guid>https://LucasFidon.github.io/portfolio/julia/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>L&#39;heritage</title>
-      <link>https://lucasfidon.github.io/portfolio/heritage/</link>
+      <link>https://LucasFidon.github.io/portfolio/heritage/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://lucasfidon.github.io/portfolio/heritage/</guid>
+      <guid>https://LucasFidon.github.io/portfolio/heritage/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
