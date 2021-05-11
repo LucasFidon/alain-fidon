@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Alain Fidon | Artiste peintre</title>
+    <link>https://examplesite.com/categories/</link>
+    <description>Recent content in Categories on Alain Fidon | Artiste peintre</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2021 Lucas Fidon</copyright>
+    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://examplesite.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>chats</title>
+      <link>https://examplesite.com/categories/chats/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://examplesite.com/categories/chats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>famille</title>
+      <link>https://examplesite.com/categories/famille/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://examplesite.com/categories/famille/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>foules</title>
+      <link>https://examplesite.com/categories/foules/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://examplesite.com/categories/foules/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>spectacle</title>
+      <link>https://examplesite.com/categories/spectacle/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://examplesite.com/categories/spectacle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>temps</title>
+      <link>https://examplesite.com/categories/temps/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://examplesite.com/categories/temps/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
