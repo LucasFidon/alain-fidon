@@ -9,16 +9,7 @@
     <copyright>Copyright &amp;copy; 2021 Lucas Fidon</copyright>
     <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://LucasFidon.github.io/alain-fidon/categories/temps/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Le Futur</title>
-      <link>https://LucasFidon.github.io/alain-fidon/portfolio/temps_futur/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>https://LucasFidon.github.io/alain-fidon/portfolio/temps_futur/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Le jeu</title>
+      <title>Innocence.</title>
       <link>https://LucasFidon.github.io/alain-fidon/portfolio/temps_jeu/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
@@ -27,7 +18,16 @@
     </item>
     
     <item>
-      <title>Le Passe</title>
+      <title>Le futur.</title>
+      <link>https://LucasFidon.github.io/alain-fidon/portfolio/temps_futur/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://LucasFidon.github.io/alain-fidon/portfolio/temps_futur/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Le passé.</title>
       <link>https://LucasFidon.github.io/alain-fidon/portfolio/temps_passe/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
@@ -36,7 +36,7 @@
     </item>
     
     <item>
-      <title>Le Present</title>
+      <title>Le présent.</title>
       <link>https://LucasFidon.github.io/alain-fidon/portfolio/temps_present/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       

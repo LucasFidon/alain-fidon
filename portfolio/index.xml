@@ -9,97 +9,7 @@
     <copyright>Copyright &amp;copy; 2021 Lucas Fidon</copyright>
     <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://LucasFidon.github.io/alain-fidon/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Courir la nuit</title>
-      <link>https://LucasFidon.github.io/alain-fidon/portfolio/courir_la_nuit/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>https://LucasFidon.github.io/alain-fidon/portfolio/courir_la_nuit/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Danse avec les chats</title>
-      <link>https://LucasFidon.github.io/alain-fidon/portfolio/danse_avec_les_chats/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>https://LucasFidon.github.io/alain-fidon/portfolio/danse_avec_les_chats/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Discussion</title>
-      <link>https://LucasFidon.github.io/alain-fidon/portfolio/discussion/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>https://LucasFidon.github.io/alain-fidon/portfolio/discussion/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Duperie</title>
-      <link>https://LucasFidon.github.io/alain-fidon/portfolio/fete2/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>https://LucasFidon.github.io/alain-fidon/portfolio/fete2/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Femme bleue</title>
-      <link>https://LucasFidon.github.io/alain-fidon/portfolio/femme_bleue/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>https://LucasFidon.github.io/alain-fidon/portfolio/femme_bleue/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Fin de partie</title>
-      <link>https://LucasFidon.github.io/alain-fidon/portfolio/jeu_echec/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>https://LucasFidon.github.io/alain-fidon/portfolio/jeu_echec/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Foule a l&#39;eglise</title>
-      <link>https://LucasFidon.github.io/alain-fidon/portfolio/fete1/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>https://LucasFidon.github.io/alain-fidon/portfolio/fete1/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Jeu enflamme</title>
-      <link>https://LucasFidon.github.io/alain-fidon/portfolio/scene_en_feu/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>https://LucasFidon.github.io/alain-fidon/portfolio/scene_en_feu/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Julia</title>
-      <link>https://LucasFidon.github.io/alain-fidon/portfolio/julia/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>https://LucasFidon.github.io/alain-fidon/portfolio/julia/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>L&#39;heritage</title>
-      <link>https://LucasFidon.github.io/alain-fidon/portfolio/heritage/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>https://LucasFidon.github.io/alain-fidon/portfolio/heritage/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Le feu</title>
+      <title>Autour du feu.</title>
       <link>https://LucasFidon.github.io/alain-fidon/portfolio/feu/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
@@ -108,70 +18,7 @@
     </item>
     
     <item>
-      <title>Le Futur</title>
-      <link>https://LucasFidon.github.io/alain-fidon/portfolio/temps_futur/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>https://LucasFidon.github.io/alain-fidon/portfolio/temps_futur/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Le jeu</title>
-      <link>https://LucasFidon.github.io/alain-fidon/portfolio/temps_jeu/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>https://LucasFidon.github.io/alain-fidon/portfolio/temps_jeu/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Le Passe</title>
-      <link>https://LucasFidon.github.io/alain-fidon/portfolio/temps_passe/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>https://LucasFidon.github.io/alain-fidon/portfolio/temps_passe/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Le Present</title>
-      <link>https://LucasFidon.github.io/alain-fidon/portfolio/temps_present/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>https://LucasFidon.github.io/alain-fidon/portfolio/temps_present/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Le prestige</title>
-      <link>https://LucasFidon.github.io/alain-fidon/portfolio/spectacle/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>https://LucasFidon.github.io/alain-fidon/portfolio/spectacle/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Poney magique</title>
-      <link>https://LucasFidon.github.io/alain-fidon/portfolio/poney_magique/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>https://LucasFidon.github.io/alain-fidon/portfolio/poney_magique/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Recherche Amour</title>
-      <link>https://LucasFidon.github.io/alain-fidon/portfolio/recherche_amour/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>https://LucasFidon.github.io/alain-fidon/portfolio/recherche_amour/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Repetition</title>
+      <title>Bienvenue au temple de la Musique.</title>
       <link>https://LucasFidon.github.io/alain-fidon/portfolio/repetition/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
@@ -180,7 +27,16 @@
     </item>
     
     <item>
-      <title>Un couple</title>
+      <title>Cheval Liberté: ce qu&#39;on appelle liberté est souvent prison.</title>
+      <link>https://LucasFidon.github.io/alain-fidon/portfolio/poney_magique/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://LucasFidon.github.io/alain-fidon/portfolio/poney_magique/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Colombine et Arlequin.</title>
       <link>https://LucasFidon.github.io/alain-fidon/portfolio/couple/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
@@ -189,7 +45,7 @@
     </item>
     
     <item>
-      <title>Vieilles hautes en couleurs</title>
+      <title>Commérages (Vieilles hautes en couleurs).</title>
       <link>https://LucasFidon.github.io/alain-fidon/portfolio/mamies/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
@@ -198,7 +54,169 @@
     </item>
     
     <item>
-      <title>Apparition bleue</title>
+      <title>Conversation autour d&#39;un chat.</title>
+      <link>https://LucasFidon.github.io/alain-fidon/portfolio/discussion/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://LucasFidon.github.io/alain-fidon/portfolio/discussion/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Dernière tentative.</title>
+      <link>https://LucasFidon.github.io/alain-fidon/portfolio/danse_avec_les_chats/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://LucasFidon.github.io/alain-fidon/portfolio/danse_avec_les_chats/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Innocence.</title>
+      <link>https://LucasFidon.github.io/alain-fidon/portfolio/temps_jeu/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://LucasFidon.github.io/alain-fidon/portfolio/temps_jeu/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Julia et son dauphin bleu.</title>
+      <link>https://LucasFidon.github.io/alain-fidon/portfolio/julia/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://LucasFidon.github.io/alain-fidon/portfolio/julia/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>L&#39;oiseau de feu.</title>
+      <link>https://LucasFidon.github.io/alain-fidon/portfolio/scene_en_feu/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://LucasFidon.github.io/alain-fidon/portfolio/scene_en_feu/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>La femme bleue.</title>
+      <link>https://LucasFidon.github.io/alain-fidon/portfolio/femme_bleue/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://LucasFidon.github.io/alain-fidon/portfolio/femme_bleue/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>la fête des fous.</title>
+      <link>https://LucasFidon.github.io/alain-fidon/portfolio/fete1/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://LucasFidon.github.io/alain-fidon/portfolio/fete1/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>La fête triste (Duperie).</title>
+      <link>https://LucasFidon.github.io/alain-fidon/portfolio/fete2/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://LucasFidon.github.io/alain-fidon/portfolio/fete2/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Le départ de grand père.</title>
+      <link>https://LucasFidon.github.io/alain-fidon/portfolio/heritage/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://LucasFidon.github.io/alain-fidon/portfolio/heritage/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Le feu: fin de partie.</title>
+      <link>https://LucasFidon.github.io/alain-fidon/portfolio/jeu_echec/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://LucasFidon.github.io/alain-fidon/portfolio/jeu_echec/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Le futur.</title>
+      <link>https://LucasFidon.github.io/alain-fidon/portfolio/temps_futur/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://LucasFidon.github.io/alain-fidon/portfolio/temps_futur/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Le passé.</title>
+      <link>https://LucasFidon.github.io/alain-fidon/portfolio/temps_passe/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://LucasFidon.github.io/alain-fidon/portfolio/temps_passe/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Le présent.</title>
+      <link>https://LucasFidon.github.io/alain-fidon/portfolio/temps_present/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://LucasFidon.github.io/alain-fidon/portfolio/temps_present/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Le théâtre (Salut des acteurs).</title>
+      <link>https://LucasFidon.github.io/alain-fidon/portfolio/spectacle/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://LucasFidon.github.io/alain-fidon/portfolio/spectacle/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Marianne.</title>
+      <link>https://LucasFidon.github.io/alain-fidon/portfolio/marianne/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://LucasFidon.github.io/alain-fidon/portfolio/marianne/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Recherche Amour.</title>
+      <link>https://LucasFidon.github.io/alain-fidon/portfolio/recherche_amour/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://LucasFidon.github.io/alain-fidon/portfolio/recherche_amour/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Voyage au bout de la nuit.</title>
+      <link>https://LucasFidon.github.io/alain-fidon/portfolio/courir_la_nuit/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://LucasFidon.github.io/alain-fidon/portfolio/courir_la_nuit/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Alain Fidon expose</title>
+      <link>https://LucasFidon.github.io/alain-fidon/portfolio/alain_fidon_expose/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://LucasFidon.github.io/alain-fidon/portfolio/alain_fidon_expose/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Dolce vita.</title>
       <link>https://LucasFidon.github.io/alain-fidon/portfolio/apparition_bleue/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -207,7 +225,7 @@
     </item>
     
     <item>
-      <title>L&#39;accrobate</title>
+      <title>Gravité: Marcher sur les mains au lieu de marcher sur...</title>
       <link>https://LucasFidon.github.io/alain-fidon/portfolio/accrobate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       

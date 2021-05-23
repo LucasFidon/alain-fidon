@@ -9,16 +9,16 @@
     <copyright>Copyright &amp;copy; 2021 Lucas Fidon</copyright>
     <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://LucasFidon.github.io/alain-fidon/categories/chats/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Danse avec les chats</title>
-      <link>https://LucasFidon.github.io/alain-fidon/portfolio/danse_avec_les_chats/</link>
+      <title>Commérages (Vieilles hautes en couleurs).</title>
+      <link>https://LucasFidon.github.io/alain-fidon/portfolio/mamies/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://LucasFidon.github.io/alain-fidon/portfolio/danse_avec_les_chats/</guid>
+      <guid>https://LucasFidon.github.io/alain-fidon/portfolio/mamies/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
-      <title>Discussion</title>
+      <title>Conversation autour d&#39;un chat.</title>
       <link>https://LucasFidon.github.io/alain-fidon/portfolio/discussion/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
@@ -27,16 +27,16 @@
     </item>
     
     <item>
-      <title>Fin de partie</title>
-      <link>https://LucasFidon.github.io/alain-fidon/portfolio/jeu_echec/</link>
+      <title>Dernière tentative.</title>
+      <link>https://LucasFidon.github.io/alain-fidon/portfolio/danse_avec_les_chats/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://LucasFidon.github.io/alain-fidon/portfolio/jeu_echec/</guid>
+      <guid>https://LucasFidon.github.io/alain-fidon/portfolio/danse_avec_les_chats/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
-      <title>L&#39;heritage</title>
+      <title>Le départ de grand père.</title>
       <link>https://LucasFidon.github.io/alain-fidon/portfolio/heritage/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
@@ -45,11 +45,11 @@
     </item>
     
     <item>
-      <title>Vieilles hautes en couleurs</title>
-      <link>https://LucasFidon.github.io/alain-fidon/portfolio/mamies/</link>
+      <title>Le feu: fin de partie.</title>
+      <link>https://LucasFidon.github.io/alain-fidon/portfolio/jeu_echec/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://LucasFidon.github.io/alain-fidon/portfolio/mamies/</guid>
+      <guid>https://LucasFidon.github.io/alain-fidon/portfolio/jeu_echec/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     

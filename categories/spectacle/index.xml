@@ -9,34 +9,7 @@
     <copyright>Copyright &amp;copy; 2021 Lucas Fidon</copyright>
     <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://LucasFidon.github.io/alain-fidon/categories/spectacle/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Danse avec les chats</title>
-      <link>https://LucasFidon.github.io/alain-fidon/portfolio/danse_avec_les_chats/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>https://LucasFidon.github.io/alain-fidon/portfolio/danse_avec_les_chats/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Jeu enflamme</title>
-      <link>https://LucasFidon.github.io/alain-fidon/portfolio/scene_en_feu/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>https://LucasFidon.github.io/alain-fidon/portfolio/scene_en_feu/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Le prestige</title>
-      <link>https://LucasFidon.github.io/alain-fidon/portfolio/spectacle/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>https://LucasFidon.github.io/alain-fidon/portfolio/spectacle/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Repetition</title>
+      <title>Bienvenue au temple de la Musique.</title>
       <link>https://LucasFidon.github.io/alain-fidon/portfolio/repetition/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
@@ -45,7 +18,7 @@
     </item>
     
     <item>
-      <title>Un couple</title>
+      <title>Colombine et Arlequin.</title>
       <link>https://LucasFidon.github.io/alain-fidon/portfolio/couple/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
@@ -54,7 +27,43 @@
     </item>
     
     <item>
-      <title>Apparition bleue</title>
+      <title>Dernière tentative.</title>
+      <link>https://LucasFidon.github.io/alain-fidon/portfolio/danse_avec_les_chats/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://LucasFidon.github.io/alain-fidon/portfolio/danse_avec_les_chats/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>L&#39;oiseau de feu.</title>
+      <link>https://LucasFidon.github.io/alain-fidon/portfolio/scene_en_feu/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://LucasFidon.github.io/alain-fidon/portfolio/scene_en_feu/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Le théâtre (Salut des acteurs).</title>
+      <link>https://LucasFidon.github.io/alain-fidon/portfolio/spectacle/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://LucasFidon.github.io/alain-fidon/portfolio/spectacle/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Alain Fidon expose</title>
+      <link>https://LucasFidon.github.io/alain-fidon/portfolio/alain_fidon_expose/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://LucasFidon.github.io/alain-fidon/portfolio/alain_fidon_expose/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Dolce vita.</title>
       <link>https://LucasFidon.github.io/alain-fidon/portfolio/apparition_bleue/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -63,7 +72,7 @@
     </item>
     
     <item>
-      <title>L&#39;accrobate</title>
+      <title>Gravité: Marcher sur les mains au lieu de marcher sur...</title>
       <link>https://LucasFidon.github.io/alain-fidon/portfolio/accrobate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
