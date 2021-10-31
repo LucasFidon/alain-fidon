@@ -18,20 +18,29 @@
     </item>
     
     <item>
-      <title>Colombine et Arlequin.</title>
-      <link>https://LucasFidon.github.io/alain-fidon/portfolio/colombine_et_arlequin/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>https://LucasFidon.github.io/alain-fidon/portfolio/colombine_et_arlequin/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
       <title>Dernière tentative.</title>
       <link>https://LucasFidon.github.io/alain-fidon/portfolio/derniere_tentative/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
       <guid>https://LucasFidon.github.io/alain-fidon/portfolio/derniere_tentative/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Jazz improvisation.</title>
+      <link>https://LucasFidon.github.io/alain-fidon/portfolio/jazz_improvisation/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://LucasFidon.github.io/alain-fidon/portfolio/jazz_improvisation/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Jazz live.</title>
+      <link>https://LucasFidon.github.io/alain-fidon/portfolio/jazz_live/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://LucasFidon.github.io/alain-fidon/portfolio/jazz_live/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
@@ -54,11 +63,11 @@
     </item>
     
     <item>
-      <title>Alain Fidon expose</title>
-      <link>https://LucasFidon.github.io/alain-fidon/portfolio/alain_fidon_expose/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Lever de rideau.</title>
+      <link>https://LucasFidon.github.io/alain-fidon/portfolio/lever_de_rideau/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://LucasFidon.github.io/alain-fidon/portfolio/alain_fidon_expose/</guid>
+      <guid>https://LucasFidon.github.io/alain-fidon/portfolio/lever_de_rideau/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
