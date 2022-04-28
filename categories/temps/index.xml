@@ -9,7 +9,18 @@
     <copyright>Copyright &amp;copy; 2021 Lucas Fidon</copyright>
     <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://LucasFidon.github.io/alain-fidon/categories/temps/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title> Le présent.</title>
+      <title>
+Le passé. Oil on canvas. 73x60.</title>
+      <link>https://LucasFidon.github.io/alain-fidon/portfolio/le_passe/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://LucasFidon.github.io/alain-fidon/portfolio/le_passe/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>
+Le présent. Oil on canvas. 73x60.</title>
       <link>https://LucasFidon.github.io/alain-fidon/portfolio/le_present/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
@@ -18,16 +29,7 @@
     </item>
     
     <item>
-      <title>Innocence.</title>
-      <link>https://LucasFidon.github.io/alain-fidon/portfolio/innocence/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>https://LucasFidon.github.io/alain-fidon/portfolio/innocence/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Le futur.</title>
+      <title> Le futur. Oil on canvas. 73x60.</title>
       <link>https://LucasFidon.github.io/alain-fidon/portfolio/le_futur/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
@@ -36,11 +38,11 @@
     </item>
     
     <item>
-      <title>Le passé.</title>
-      <link>https://LucasFidon.github.io/alain-fidon/portfolio/le_passe/</link>
+      <title>Innocence. Oil on canvas. 60x38.</title>
+      <link>https://LucasFidon.github.io/alain-fidon/portfolio/innocence/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://LucasFidon.github.io/alain-fidon/portfolio/le_passe/</guid>
+      <guid>https://LucasFidon.github.io/alain-fidon/portfolio/innocence/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     

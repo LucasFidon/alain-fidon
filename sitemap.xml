@@ -2,25 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://LucasFidon.github.io/alain-fidon/portfolio/cheval_liberte/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
     <loc>https://LucasFidon.github.io/alain-fidon/portfolio/la_femme_bleue/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
-    <loc>https://LucasFidon.github.io/alain-fidon/portfolio/la_fete_des_fous/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://LucasFidon.github.io/alain-fidon/portfolio/fin_de_partie/</loc>
+    <loc>https://LucasFidon.github.io/alain-fidon/portfolio/le_passe/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
     <loc>https://LucasFidon.github.io/alain-fidon/portfolio/le_present/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
+    <loc>https://LucasFidon.github.io/alain-fidon/portfolio/cheval_liberte/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>https://LucasFidon.github.io/alain-fidon/portfolio/conversation_autour_dun_chat/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>https://LucasFidon.github.io/alain-fidon/portfolio/la_fete_des_fous/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>https://LucasFidon.github.io/alain-fidon/portfolio/le_futur/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>https://LucasFidon.github.io/alain-fidon/portfolio/fin_de_partie/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url><url>
     <loc>https://LucasFidon.github.io/alain-fidon/portfolio/recherche_amour/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
+    <loc>https://LucasFidon.github.io/alain-fidon/portfolio/113/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>https://LucasFidon.github.io/alain-fidon/portfolio/10roses/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url><url>
     <loc>https://LucasFidon.github.io/alain-fidon/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>https://LucasFidon.github.io/alain-fidon/portfolio/ancolies/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
     <loc>https://LucasFidon.github.io/alain-fidon/portfolio/autour_du_feu/</loc>
@@ -50,16 +68,13 @@
     <loc>https://LucasFidon.github.io/alain-fidon/categories/chats/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
-    <loc>https://LucasFidon.github.io/alain-fidon/portfolio/colombine_et_arlequin/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
     <loc>https://LucasFidon.github.io/alain-fidon/portfolio/commerages/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
-    <loc>https://LucasFidon.github.io/alain-fidon/portfolio/conversation_autour_dun_chat/</loc>
+    <loc>https://LucasFidon.github.io/alain-fidon/portfolio/derniere_tentative/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
-    <loc>https://LucasFidon.github.io/alain-fidon/portfolio/derniere_tentative/</loc>
+    <loc>https://LucasFidon.github.io/alain-fidon/portfolio/2chats/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
     <loc>https://LucasFidon.github.io/alain-fidon/portfolio/en_vin/</loc>
@@ -98,12 +113,6 @@
     <loc>https://LucasFidon.github.io/alain-fidon/portfolio/le_depart_de_grand_pere/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
-    <loc>https://LucasFidon.github.io/alain-fidon/portfolio/le_futur/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://LucasFidon.github.io/alain-fidon/portfolio/le_passe/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
     <loc>https://LucasFidon.github.io/alain-fidon/portfolio/le_theatre/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
@@ -117,6 +126,9 @@
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
     <loc>https://LucasFidon.github.io/alain-fidon/categories/spectacle/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>https://LucasFidon.github.io/alain-fidon/categories/still-life/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
     <loc>https://LucasFidon.github.io/alain-fidon/categories/temps/</loc>
